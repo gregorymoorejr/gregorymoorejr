@@ -25,8 +25,6 @@ United States Army Veteran with over 20 years of experience in IT and cybersecur
 As I transition from a distinguished military career, where I gained extensive experience across various domains of IT, including cybersecurity, I am eager to continue my journey in the civilian workforce. My goal is to leverage my skills and expertise in roles such as Security Operations Center (SOC) Analyst, Cloud Security Engineer, or Cybersecurity Engineer, contributing to the protection and advancement of organizational security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Firewall Implementation                       |                             |
