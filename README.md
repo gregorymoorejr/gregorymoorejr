@@ -21,24 +21,20 @@ United States Army Veteran with over 20 years of experience in IT and cybersecur
     <li><b>Strategic Consulting:</b> Provided expert consulting on cybersecurity standards, aligning initiatives with organizational objectives.</li>
 </ul>
 
-
-
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As I transition from a distinguished military career, where I gained extensive experience across various domains of IT, including cybersecurity, I am eager to continue my journey in the civilian workforce. My goal is to leverage my skills and expertise in roles such as Security Operations Center (SOC) Analyst, Cloud Security Engineer, or Cybersecurity Engineer, contributing to the protection and advancement of organizational security.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Firewall Implementation                       |                             |
+| Network-wide Filtering for Ad, Tracker, and Malicious |                    |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Wazuh                | SOC Automation Lab|
+| Self-Hosted Secrets Management
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
