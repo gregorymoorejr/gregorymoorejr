@@ -1,9 +1,27 @@
 # Hello, I'm Greg
 <a href="https://www.linkedin.com/in/greg-moore-tecsec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## Professional Summary
+United States Army Veteran with over 20 years of experience in IT and cybersecurity, I have successfully led teams and driven organizational success across various roles. As a seasoned cybersecurity expert, I have managed departments, provided strategic consulting on standards, and mentored team leaders to achieve exceptional results.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+### Key Achievements
+<ul>
+    <li><b>Leadership in Cybersecurity:</b> Directed a cybersecurity department, implementing strategic defense initiatives and aligning management processes with organizational goals to enhance our security posture.</li>
+    <li><b>Operational Efficiency:</b> Ensured cost-effective business operations by coaching team members, overcoming obstacles, and delivering results.</li>
+    <li><b>Training and Development:</b> Developed and delivered comprehensive cybersecurity and IT training programs using the ADDIE model, creating impactful and effective learning experiences.</li>
+    <li><b>System Optimization:</b> Conducted system reviews and provided recommendations to optimize efficiency and functionality.</li>
+    <li><b>Innovative Solutions:</b> Led telecommunications projects, providing innovative solutions across multiple platforms.</li>
+    <li><b>Network Security:</b> Implemented robust network security measures, ensuring optimal functionality and security.</li>
+</ul>
+
+### Career Highlights
+<ul>
+    <li><b>Team Empowerment:</b> Dedicated to empowering teams and fostering a culture of continuous improvement.</li>
+    <li><b>Mentorship:</b> Mentored team leaders, enhancing their capabilities and driving success.</li>
+    <li><b>Strategic Consulting:</b> Provided expert consulting on cybersecurity standards, aligning initiatives with organizational objectives.</li>
+</ul>
+
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
