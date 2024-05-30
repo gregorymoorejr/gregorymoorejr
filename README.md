@@ -39,9 +39,9 @@ As I transition from a distinguished military career, where I gained extensive e
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white"/>
 </div>
 
 ### Endpoint
@@ -58,14 +58,17 @@ As I transition from a distinguished military career, where I gained extensive e
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### CompTIA
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.credly.com/badges/747a6ca0-42b5-4879-8e76-c3d32986de95"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-a-ce-certification.1.png"/></a>
+    <a href="https://www.credly.com/badges/aa590dd1-c142-44cd-8b41-473fd36b46d5"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-network-ce-certification.1.png"/></a>
+    <a href="https://www.credly.com/badges/b2b36229-1300-47be-ba87-97ff4aec2c1a"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-security-ce-certification.png"/></a>
+    <a href="https://www.credly.com/badges/472134ed-9145-4725-9554-8d72ca4d6b51"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-cloud-ce-certification.1.png"/></a>
+    <a href="https://www.credly.com/badges/38635425-8f12-48d3-8dae-fab58a6c7392"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-server-certification.4.png"/></a>
+    <a href="https://www.credly.com/badges/cd78f9ca-c35d-4582-9c88-35ca5b4960d2"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-project-certification.1.png"/></a>   
 </div>
+
+
 
 ## Projects
 - Detection Lab
