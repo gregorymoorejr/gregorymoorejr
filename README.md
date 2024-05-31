@@ -47,7 +47,7 @@ As I transition from a distinguished military career, where I gained extensive e
 
 ### Secerts Management
 <div>
-  <a href="https://www.vaultwarden.us/"><img src="https://img.shields.io/badge/-Vaultwarden-0000FF?style=for-the-badge&logo=Bitwarden&logoColor=white" /></a>
+  <a href="https://www.vaultwarden.us/"><img src="https://img.shields.io/badge/-VaultWarden-0000FF?style=for-the-badge&logo=VaultWarden&logoColor=white" /></a>
 </div>
 
 ### Security Information and Event Managment (SIEM)
