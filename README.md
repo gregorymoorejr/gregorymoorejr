@@ -1,8 +1,8 @@
 # Hello, I'm Greg
 <a href="https://www.linkedin.com/in/greg-moore-tecsec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Professional Summary
-United States Army Veteran with over 20 years of experience in IT and cybersecurity, I have successfully led teams and driven organizational success across various roles. As a seasoned cybersecurity expert, I have managed departments, provided strategic consulting on standards, and mentored team leaders to achieve exceptional results.
+## Introduction
+I am a U.S. Army Veteran with over 20 years of experience in IT and cybersecurity, I have successfully led teams and driven organizational success across various roles. As a seasoned cybersecurity expert, I have managed departments, provided strategic consulting on standards, and mentored team leaders to achieve exceptional results.
 
 ### Key Achievements
 <ul>
