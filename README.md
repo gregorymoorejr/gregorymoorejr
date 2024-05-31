@@ -93,7 +93,7 @@ As I transition from a distinguished military career, where I gained extensive e
 
 ### Microsoft
 <div>
-  <a href="https://www.credly.com/badges/a8d9b1f8-3bc0-4e68-8b6e-c43a35be57cc"><img src=./certification-badge-images/Microsof/microsoft-certified-azure-fundamentals.png/></a>
+  <a href="https://www.credly.com/badges/a8d9b1f8-3bc0-4e68-8b6e-c43a35be57cc"><img src=./certification-badge-images/Microsoft/microsoft-certified-azure-fundamentals.png/></a>
 </div>
 
 
