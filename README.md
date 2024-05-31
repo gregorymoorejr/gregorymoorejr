@@ -79,7 +79,7 @@ As I transition from a distinguished military career, where I gained extensive e
   <a href="https://www.credly.com/badges/54de8574-330c-48c4-b5b2-b862527be284"><img src=./certification-badge-images/CompTIA/comptia-secure-cloud-professional-cscp-stackable-certification.png/></a>
   <a href="https://www.credly.com/badges/da6c1c9e-b911-4da1-af49-a3176d701026"><img src=./certification-badge-images/CompTIA/comptia-security-analytics-professional-csap-stackable-certification.png/></a>
   <a href="https://www.credly.com/badges/b7cfd3bc-feb0-4146-8517-badae13087f5"><img src=./certification-badge-images/CompTIA/comptia-network-vulnerability-assessment-professional-cnvp-stackable-certification.png/></a>
-  <a href="https://www.credly.com/badges/79a6dc3c-4dba-4757-abc7-e270e5533ed7"><img src=./certification-badge-images/CompTIA?comptia-network-security-professional-cnsp-stackable-certification.png/></a>
+  <a href="https://www.credly.com/badges/79a6dc3c-4dba-4757-abc7-e270e5533ed7"><img src=./certification-badge-images/CompTIA/comptia-network-security-professional-cnsp-stackable-certification.png/></a>
   <a href="https://www.credly.com/badges/db73cf37-012e-423f-b827-4ea13b963184"><img src=./certification-badge-images/CompTIA/comptia-security-analytics-expert-csae-stackable-certification.png/></a>
   <a href="https://www.credly.com/badges/099583e7-24d2-467c-8994-cc2f0457f087"><img src=./certification-badge-images/CompTIA/comptia-secure-infrastructure-expert-csie-stackable.png/></a>
 </div>
