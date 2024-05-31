@@ -67,8 +67,12 @@ As I transition from a distinguished military career, where I gained extensive e
     <a href="https://www.credly.com/badges/38635425-8f12-48d3-8dae-fab58a6c7392"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-server-certification.4.png"/></a>
     <a href="https://www.credly.com/badges/cd78f9ca-c35d-4582-9c88-35ca5b4960d2"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-project-certification.1.png"/></a>
     <a href="https://www.credly.com/badges/8e7979be-3e06-4a40-9f84-fc6990bc33a0"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-cysa-ce-certification.png"/></a>
-    <a href="https://www.credly.com/badges/1f2766c5-d9e9-4ba2-a9be-c4653a8c0036"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-pentest-ce-certification.png"></a>
-    <a href="https://www.credly.com/badges/e1905bdd-43e5-4b03-a21f-6bb0f3f44de9"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-advanced-security-practitioner-casp-ce-certification.png"></a>
+    <a href="https://www.credly.com/badges/1f2766c5-d9e9-4ba2-a9be-c4653a8c0036"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-pentest-ce-certification.png"/></a>
+    <a href="https://www.credly.com/badges/e1905bdd-43e5-4b03-a21f-6bb0f3f44de9"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-advanced-security-practitioner-casp-ce-certification.png"/></a>
+</div>
+
+<div>
+    <a href="https://www.credly.com/badges/6192a52d-6e34-4ad0-8b62-234a73c6f86a"><img src=./certification-badge-images/CompTIA/comptia-it-operations-specialist-cios-stackable-certification.png /></a>
 </div>
 
 
