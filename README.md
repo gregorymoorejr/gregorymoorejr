@@ -25,14 +25,15 @@ I am a U.S. Army Veteran with over 20 years of experience in IT and cybersecurit
 As I transition from a distinguished military career, where I gained extensive experience across various domains of IT, including cybersecurity, I am eager to continue my journey in the civilian workforce. My goal is to leverage my skills and expertise in roles such as Security Operations Center (SOC) Analyst, Cloud Security Engineer, or Cybersecurity Engineer, contributing to the protection and advancement of organizational security.
 
 ## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Firewall Implementation                       |                             |
-| Network-wide Filtering for Ad, Tracker, and Malicious |                    |
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Wazuh                | SOC Automation Lab|
-| Self-Hosted Secrets Management
+| Skill                                                 | Associated Project         |
+|-------------------------------------------------------|----------------------------|
+| Firewall Implementation                               | OPNsense Project           |
+| Network-wide Filtering for Ad, Tracker, and Malicious | Adguard Project            |
+| Network Traffic Monitoring and Attack Detection (LAN) | Zenarmor Project           |
+| Network Traffic Monitoring and Attack Detection (WAN) | Suricata Project           |
+| SIEM Implementation and Log Analysis                  | Wazuh Project              |
+| Security Automation with Wazuh                        | Wazuh Project              |
+| Self-Hosted Secrets Management                        | Bitwarden Project          |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]
@@ -103,5 +104,10 @@ As I transition from a distinguished military career, where I gained extensive e
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- OPNsense Project
+- Adguard Project
+- Zenarmor Project
+- Suricata Project
+- Bitwarden Project
+- Wazuh Project
+
