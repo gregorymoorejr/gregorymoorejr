@@ -91,6 +91,11 @@ As I transition from a distinguished military career, where I gained extensive e
   <a href="https://www.credly.com/badges/3227c428-0e19-468b-a1af-d3491a71e378"><img src=./certification-badge-images/ISC2/systems-security-certified-practitioner-sscp.png/></a>
 </div>
 
+### Microsoft
+<div>
+  <a href="https://www.credly.com/badges/a8d9b1f8-3bc0-4e68-8b6e-c43a35be57cc"><img src=./certification-badge-images/Microsof/microsoft-certified-azure-fundamentals.png/></a>
+</div>
+
 
 ## Projects
 - Detection Lab
