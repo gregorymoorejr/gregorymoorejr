@@ -64,8 +64,11 @@ As I transition from a distinguished military career, where I gained extensive e
     <a href="https://www.credly.com/badges/aa590dd1-c142-44cd-8b41-473fd36b46d5"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-network-ce-certification.1.png"/></a>
     <a href="https://www.credly.com/badges/b2b36229-1300-47be-ba87-97ff4aec2c1a"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-security-ce-certification.png"/></a>
     <a href="https://www.credly.com/badges/472134ed-9145-4725-9554-8d72ca4d6b51"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-cloud-ce-certification.1.png"/></a>
-    <a href="https://www.credly.com/badges/38635425-8f12-48d3-8dae-fab58a6c7392"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-cloud-ce-certification.1.png"/></a>
-    <a href="https://www.credly.com/badges/cd78f9ca-c35d-4582-9c88-35ca5b4960d2"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-project-certification.1.png"/></a>   
+    <a href="https://www.credly.com/badges/38635425-8f12-48d3-8dae-fab58a6c7392"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-server-certification.4.png"/></a>
+    <a href="https://www.credly.com/badges/cd78f9ca-c35d-4582-9c88-35ca5b4960d2"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-project-certification.1.png"/></a>
+    <a href="https://www.credly.com/badges/8e7979be-3e06-4a40-9f84-fc6990bc33a0"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-cysa-ce-certification.png"/></a>
+    <a href="https://www.credly.com/badges/1f2766c5-d9e9-4ba2-a9be-c4653a8c0036"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-pentest-ce-certification.png"></a>
+    <a href="https://www.credly.com/badges/e1905bdd-43e5-4b03-a21f-6bb0f3f44de9"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-advanced-security-practitioner-casp-ce-certification.png"></a>
 </div>
 
 
