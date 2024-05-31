@@ -84,6 +84,12 @@ As I transition from a distinguished military career, where I gained extensive e
     <a href="https://www.credly.com/badges/099583e7-24d2-467c-8994-cc2f0457f087"><img src=./certification-badge-images/CompTIA/comptia-secure-infrastructure-expert-csie-stackable.png/></a>
 </div>
 
+### ISC2
+<div>
+    <a href="https://www.credly.com/badges/923d25db-219c-48aa-afd8-4ebfaefb3adb"><img src=./certification-badge-images/ISC2/certified-in-cybersecurity-cc.png/>
+    <a href="https://www.credly.com/badges/3879bfd3-eace-46ce-8306-3f297f4e4e53"><img src=./certification-badge-images/ISC2/associate-of-isc2.ccsp.png/>
+    <a href="https://www.credly.com/badges/3227c428-0e19-468b-a1af-d3491a71e378"><img src=./certification-badge-images/ISC2/systems-security-certified-practitioner-sscp.png/>
+</div>
 
 
 ## Projects
