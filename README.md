@@ -98,7 +98,7 @@ As I transition from a distinguished military career, where I gained extensive e
 
 ### Linux Professional Institute
 <div>
-  <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000574084/8mgcq33cvf"><img src=./certification-badge-image/LPI/LPI_Essentials_small.xcf /></a>
+  <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000574084/8mgcq33cvf"><img src=./certification-badge-image/LPI/LPI_Essentials_small.png /></a>
 </div>
 
 
