@@ -35,7 +35,7 @@ As I transition from a distinguished military career, where I gained extensive e
 | Self-Hosted Secrets Management
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]
 
 ### Network
 <div>
@@ -60,12 +60,12 @@ As I transition from a distinguished military career, where I gained extensive e
 ## Certifications
 ### CompTIA
 <div>
-    <a href="https://www.credly.com/badges/747a6ca0-42b5-4879-8e76-c3d32986de95"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-a-ce-certification.1.png"/></a>
-    <a href="https://www.credly.com/badges/aa590dd1-c142-44cd-8b41-473fd36b46d5"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-network-ce-certification.1.png"/></a>
-    <a href="https://www.credly.com/badges/b2b36229-1300-47be-ba87-97ff4aec2c1a"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-security-ce-certification.png"/></a>
-    <a href="https://www.credly.com/badges/472134ed-9145-4725-9554-8d72ca4d6b51"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-cloud-ce-certification.1.png"/></a>
-    <a href="https://www.credly.com/badges/38635425-8f12-48d3-8dae-fab58a6c7392"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-server-certification.4.png"/></a>
-    <a href="https://www.credly.com/badges/cd78f9ca-c35d-4582-9c88-35ca5b4960d2"><img src="https://github.com/gregorymoorejr/certification-badge-images/blob/main/CompTIA/comptia-project-certification.1.png"/></a>   
+    <a href="https://www.credly.com/badges/747a6ca0-42b5-4879-8e76-c3d32986de95"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-a-ce-certification.1.png"/></a>
+    <a href="https://www.credly.com/badges/aa590dd1-c142-44cd-8b41-473fd36b46d5"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-network-ce-certification.1.png"/></a>
+    <a href="https://www.credly.com/badges/b2b36229-1300-47be-ba87-97ff4aec2c1a"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-security-ce-certification.png"/></a>
+    <a href="https://www.credly.com/badges/472134ed-9145-4725-9554-8d72ca4d6b51"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-cloud-ce-certification.1.png"/></a>
+    <a href="https://www.credly.com/badges/38635425-8f12-48d3-8dae-fab58a6c7392"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-cloud-ce-certification.1.png"/></a>
+    <a href="https://www.credly.com/badges/cd78f9ca-c35d-4582-9c88-35ca5b4960d2"><img src="https://github.com/gregorymoorejr/gregorymoorejr/blob/main/certification-badge-images/CompTIA/comptia-project-certification.1.png"/></a>   
 </div>
 
 
