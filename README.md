@@ -2,24 +2,9 @@
 <a href="https://www.linkedin.com/in/greg-moore-tecsec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-I am a U.S. Army Veteran with over 20 years of experience in IT and cybersecurity, I have successfully led teams and driven organizational success across various roles. As a seasoned cybersecurity expert, I have managed departments, provided strategic consulting on standards, and mentored team leaders to achieve exceptional results.
+I am a U.S. Army Veteran with over 20 years of experience in IT and cybersecurity, where I have successfully led teams and driven organizational success in various roles. As a seasoned cybersecurity expert, I have managed departments, provided strategic consulting on standards, and mentored team leaders to achieve exceptional results. My key achievements include directing a cybersecurity department, ensuring operational efficiency, and developing impactful training programs using the ADDIE model.
 
-### Key Achievements
-<ul>
-  <li><b>Leadership in Cybersecurity:</b> Directed a cybersecurity department, implementing strategic defense initiatives and aligning management processes with organizational goals to enhance our security posture.</li>
-  <li><b>Operational Efficiency:</b> Ensured cost-effective business operations by coaching team members, overcoming obstacles, and delivering results.</li>
-  <li><b>Training and Development:</b> Developed and delivered comprehensive cybersecurity and IT training programs using the ADDIE model, creating impactful and effective learning experiences.</li>
-  <li><b>System Optimization:</b> Conducted system reviews and provided recommendations to optimize efficiency and functionality.</li>
-  <li><b>Innovative Solutions:</b> Led telecommunications projects, providing innovative solutions across multiple platforms.</li>
-  <li><b>Network Security:</b> Implemented robust network security measures, ensuring optimal functionality and security.</li>
-</ul>
-
-### Career Highlights
-<ul>
-  <li><b>Team Empowerment:</b> Dedicated to empowering teams and fostering a culture of continuous improvement.</li>
-  <li><b>Mentorship:</b> Mentored team leaders, enhancing their capabilities and driving success.</li>
-  <li><b>Strategic Consulting:</b> Provided expert consulting on cybersecurity standards, aligning initiatives with organizational objectives.</li>
-</ul>
+In my career, I have conducted system reviews for optimization, led innovative telecommunications projects, and implemented robust network security measures. My leadership style is dedicated to empowering teams and fostering a culture of continuous improvement. I have mentored team leaders to enhance their capabilities and provided strategic consulting on cybersecurity standards, aligning initiatives with organizational objectives.
 
 ## Objective
 As I transition from a distinguished military career, where I gained extensive experience across various domains of IT, including cybersecurity, I am eager to continue my journey in the civilian workforce. My goal is to leverage my skills and expertise in roles such as Security Operations Center (SOC) Analyst, Cloud Security Engineer, or Cybersecurity Engineer, contributing to the protection and advancement of organizational security.
