@@ -33,7 +33,7 @@ As I transition from a distinguished military career, where I gained extensive e
 | Network Traffic Monitoring and Attack Detection (WAN) | Suricata Project           |
 | SIEM Implementation and Log Analysis                  | Wazuh Project              |
 | Security Automation with Wazuh                        | Wazuh Project              |
-| Self-Hosted Secrets Management                        | Bitwarden Project          |
+| Self-Hosted Secrets Management                        | VaultWarden Project         |
 
 ## Tools
 ### Network
@@ -105,6 +105,6 @@ As I transition from a distinguished military career, where I gained extensive e
 - Adguard Project
 - Zenarmor Project
 - Suricata Project
-- Bitwarden Project
+- VaultWarden Project
 - Wazuh Project
 
