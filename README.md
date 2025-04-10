@@ -1,5 +1,5 @@
 # Hello, I'm Greg
-<a href="https://www.linkedin.com/in/greg-moore-tecsec" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/greg-moore-tecsec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
 I am a U.S. Army Veteran with over 20 years of experience in IT and cybersecurity, where I have successfully led teams and driven organizational success in various roles. As a seasoned cybersecurity expert, I have managed departments, provided strategic consulting on standards, and mentored team leaders to achieve exceptional results. My key achievements include directing a cybersecurity department, ensuring operational efficiency, and developing impactful training programs using the ADDIE model.
