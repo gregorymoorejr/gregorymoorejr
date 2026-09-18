@@ -72,9 +72,11 @@ Leveraging my extensive military background, practical hands-on engineering expe
 
 
 ## Home Production Environment Projects
-- **OPNsense, Zenarmor & CrowdSec Perimeter Defense:** Multi-VLAN segmentation, L7 traffic inspection, and active collaborative threat mitigation.
+- **[OPNsense Perimeter Defense & Network Segmentation](./projects/opnsense-dns-segmentation.md):** Multi-VLAN hardware micro-segmentation, local name routing, and recursive DNS filtering.
+- **Zenarmor L7 Firewall Security:** Application-layer traffic inspection, web categorization, and security analytics deployed at the perimeter.
+- **CrowdSec Collaborative Threat Intelligence:** Collaborative security engine and automated bouncers for active threat detection and blocklisting.
+- **Q-Feeds Threat Intelligence:** Integration of customized threat feed intelligence lists to tighten perimeter block policies.
 - **Nginx Reverse Proxy & Vaultwarden:** Secure, TLS-terminated web serving and self-hosted encrypted credentials management.
 - **AdGuard Home, Unbound DNS & Dnsmasq:** Network-wide recursive DNS resolution, local name routing, and ad/tracker filtering.
-- **Q-Feeds Threat Intelligence:** Integration of intelligence feeds to enhance detection accuracy across perimeter controls.
 - **Wazuh SIEM & Zabbix Monitoring:** Centralized log aggregation, host-based intrusion detection, and proactive infrastructure telemetry.
-- **Proxmox Virtualization Cluster:** Containerized and virtualized lab nodes hosting core management and security services.
+- **Proxmox Virtualization Cluster & OpenMediaVault:** Containerized and virtualized lab nodes hosting core management services and robust network-attached storage.
