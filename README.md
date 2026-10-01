@@ -84,7 +84,7 @@ Leveraging my extensive military background, practical hands-on engineering expe
 
 ### Program: Perimeter Security & Network Infrastructure
 *Architectural core focusing on custom enterprise hardware routing, physical & logical micro-segmentation, and network-wide traffic control.*
-- **[OPNsense Perimeter Defense & Network Segmentation](./projects/opnsense-dns-segmentation.md):** Multi-VLAN hardware micro-segmentation, local name routing, and recursive DNS filtering.
+- **[OPNsense Perimeter Defense & Network Segmentation](https://github.com/gregorymoorejr/opnsense-dns-segmentation):** Multi-VLAN hardware micro-segmentation, local name routing, and recursive DNS filtering.
 - **Resilient DNS & Ad-Blocking Stack:** Network-wide recursive DNS resolution via Unbound, local name routing via Dnsmasq, and telemetry filtering via AdGuard Home. *(Dedicated repo coming soon)*
 - **Zenarmor L7 Firewall Security:** Application-layer traffic inspection, web categorization, and security analytics deployed at the perimeter. *(Dedicated repo coming soon)*
 - **CrowdSec Collaborative Threat Intelligence:** Collaborative security engine and automated bouncers for active threat detection and blocklisting. *(Dedicated repo coming soon)*
