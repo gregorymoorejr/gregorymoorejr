@@ -57,7 +57,6 @@ Leveraging my extensive military background, practical hands-on engineering expe
 <div>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" /></a>
   <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /></a>
 </div>
 
@@ -81,7 +80,6 @@ Leveraging my extensive military background, practical hands-on engineering expe
 
 
 ## RMESOE Programs & Projects
-
 ### Program: Perimeter Security & Network Infrastructure
 *Architectural core focusing on custom enterprise hardware routing, physical & logical micro-segmentation, and network-wide traffic control.*
 - **[OPNsense Perimeter Defense & Network Segmentation](https://github.com/gregorymoorejr/opnsense-dns-segmentation):** Multi-VLAN hardware micro-segmentation, local name routing, and recursive DNS filtering.
