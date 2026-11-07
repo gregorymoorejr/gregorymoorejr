@@ -100,8 +100,4 @@ Leveraging my extensive military background, practical hands-on engineering expe
 - **OpenMediaVault Storage Node:** Dedicated NAS backup and data persistence platform running on a Dell Inspiron 15 5568 in VLAN 130. *(Dedicated repo coming soon)*
 - **Nginx Reverse Proxy & Vaultwarden:** Secure, TLS-terminated web serving and self-hosted encrypted credentials management. *(Dedicated repo coming soon)*
 
-<style>
-  footer, .site-footer, .site-footer-credits {
-    display: none !important;
-  }
-</style>
+<style>footer, .site-footer, .site-footer-credits { display: none !important; }</style>
