@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Gregory (Greg) Moore Jr.
 ### U.S. Army Veteran | Cybersecurity Engineer & Systems Architect
 <div>
@@ -103,5 +99,3 @@ Leveraging my extensive military background, practical hands-on engineering expe
 - **Proxmox VE Virtualization Cluster:** Enterprise hypervisor node hosted on a Dell Precision 7530 in VLAN 80, managing LXC/VM workloads and Docker containers. *(Dedicated repo coming soon)*
 - **OpenMediaVault Storage Node:** Dedicated NAS backup and data persistence platform running on a Dell Inspiron 15 5568 in VLAN 130. *(Dedicated repo coming soon)*
 - **Nginx Reverse Proxy & Vaultwarden:** Secure, TLS-terminated web serving and self-hosted encrypted credentials management. *(Dedicated repo coming soon)*
-
-<style>.site-footer, .site-footer-credits, footer { display: none !important; }</style>

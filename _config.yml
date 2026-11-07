@@ -1,4 +1,0 @@
-# Global site overrides
-theme: jekyll-theme-primer
-kramdown:
-  parse_block_html: true
